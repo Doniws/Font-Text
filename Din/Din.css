@@ -1,0 +1,16 @@
+@font-face {
+    font-family:"Din" ;
+    src: url(./fonts-D-DIN.woff);
+}
+@font-face {
+    font-family: "Din-2";
+    src: url(./fonts-D-DIN.woff2);
+}
+@font-face {
+    font-family: "DinBold";
+    src: url(./fonts-D-DIN-Bold.woff);
+}
+@font-face {
+    font-family: "DinBold-2";
+    src: url(./fonts-D-DIN-Bold.woff2);
+}
