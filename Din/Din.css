@@ -14,3 +14,7 @@
     font-family: "DinBold-2";
     src: url(./fonts-D-DIN-Bold.woff2);
 }
+@font-face {
+    font-family: "DinProBold";
+    src: url(./DINPro-Bold.woff);
+}
